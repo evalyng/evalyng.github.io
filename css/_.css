@@ -1,0 +1,9 @@
+* {
+	animation: _ 1s infinite;
+}
+
+@keyframes _ {
+	50% {
+		transform: rotate(360deg);
+	}
+}
