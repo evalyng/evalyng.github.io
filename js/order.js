@@ -8,7 +8,7 @@ document.querySelector('button').onclick = () => {
 
 		const _ = document.createElement('link')
 		_.rel = 'stylesheet'
-		_.href = 'css/_.css'
+		_.href = 'css/360.css'
 
 		document.head.append(_)
 	}, 2000)
