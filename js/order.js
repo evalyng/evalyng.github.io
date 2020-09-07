@@ -1,4 +1,4 @@
-document.querySelectorAll('button').onclick = () => {
+document.querySelector('button').onclick = () => {
 	document.body.style.cursor = 'wait'
 
 	setTimeout(() => {
